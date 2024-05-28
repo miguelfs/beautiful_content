@@ -13,3 +13,7 @@ User interfaces that looks good and can serve as inspiration.
 # Mobile:
 ## Media players:
 - https://apps.apple.com/br/app/apple-podcasts/id525463029
+
+# Components:
+## Dialog:
+- https://x.com/nitishkmrk/status/1795345510204862509
