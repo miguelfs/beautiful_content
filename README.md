@@ -6,6 +6,7 @@ User interfaces that looks good and can serve as inspiration.
 ## Landing pages:
 - https://linktr.ee/
 - https://bonitotech.com/
+- https://www.splitwise.com/
 
 ## Identity catalog:
 - https://the-brandidentity.com
