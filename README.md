@@ -7,6 +7,7 @@ User interfaces that looks good and can serve as inspiration.
 - https://linktr.ee/
 - https://bonitotech.com/
 - https://www.splitwise.com/
+- https://www.musicbreakr.com/
 
 ## Identity catalog:
 - https://the-brandidentity.com
