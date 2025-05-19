@@ -4,6 +4,7 @@ User interfaces that looks good and can serve as inspiration.
 
 ## Web:
 ### Landing pages:
+- https://www.privy.io
 - https://linktr.ee/
 - https://bonitotech.com/
 - https://www.splitwise.com/
